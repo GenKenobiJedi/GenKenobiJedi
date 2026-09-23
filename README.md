@@ -1,6 +1,6 @@
 # 🛰️ GenKenobiJedi — Defense-Tech & Soccer Data Pipelines
 
-**Burhan Hayber** · Germany · Builders beloved by data pipelines:
+**Burhan Hayber** · Germany · Production-grade data pipelines:
 
 I build production-grade scraping & analytics automation:
 
@@ -17,7 +17,7 @@ I build production-grade scraping & analytics automation:
 | Project | What it does | Live |
 |---|---|---|
 | apify-savunma-news | Turkish defense news scraper (Actor)      | 🔶 on Apify Store |
-| soccer-mcp        | MCP server + Actor wrapper for the soccer toolkit | �春晚 co-sell soon |
+| soccer-mcp        | MCP server + Actor wrapper for the soccer toolkit | 🟡 co-sell soon |
 | channelstats      | Crypto channel stats portal (`:5011`)      | ⚡ self-hosted    |
 | mycorni           | Trading execution & bot profiles           | 💹 live           |
 
