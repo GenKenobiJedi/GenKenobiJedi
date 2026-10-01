@@ -11,5 +11,7 @@
 
 🫱🏻‍🫲🏽 **Work with me:** open for scraping challenges & data pipeline projects — reach me via Apify chat.
 
+📺 **YouTube:** [Savunma ve Tech News](https://youtube.com/@savunmavetechnews) — Turkish defense industry, technology and Milli Teknoloji content.
+
 ---
 🛰️ *Defense-tech, sports betting math and crypto analytics — the pipelines nobody wants to build twice.*
